@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My name is Tohid",
+      "body": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.",
+      "photo": "https://unitedthemes.com/wp-content/uploads/2018/09/team2.jpg"
+    },
+    {
+      "id": 2,
+      "title": "This is Tasnime",
+      "body": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,",
+      "photo": "https://unitedthemes.com/wp-content/uploads/2018/09/team3.jpg"
+    },
+    {
+      "title": "Hello World",
+      "body": "I am vary fine.",
+      "photo": "https://picsum.photos/200",
+      "id": 3
+    },
+    {
+      "title": "This is Noman",
+      "body": "I am very fine for today",
+      "photo": "https://picsum.photos/200",
+      "id": 4
+    }
+  ]
+}
